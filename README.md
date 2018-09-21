@@ -1,4 +1,4 @@
-### 仓库说明
+### 仓库说明 
 
 最近看到有同学用github统计了一些比较坑逼的国内的IT互联网公司，但是我发现他提交了136个commits, 但是只有十多家公司名称和经历介绍。
 
@@ -14,4 +14,6 @@
 
 链接: https://github.com/lxl0928/it_blacklist_company/blob/master/chengdu/README.md
 
+### 2018.09.21
 
+今天github推送的一个 [github用户: hengxinjing](https://github.com/shengxinjing)整理的[程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist#%E7%A8%8B%E5%BA%8F%E5%91%98%E6%89%BE%E5%B7%A5%E4%BD%9C%E9%BB%91%E5%90%8D%E5%8D%95)

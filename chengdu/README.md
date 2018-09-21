@@ -1,7 +1,10 @@
 # 成都
 
 资料1: https://www.w3cvip.org/topics/77
+
 资料2: https://www.zcool.com.cn/article/ZNDE0NTU2.html
+
+资料3：https://github.com/shengxinjing/programmer-job-blacklist/issues/59
 
 ### 说明
 以下信息均来源于网络整理，本仓库的维护者没有实地考察、深入探究这些网络信息的真实性。因此，对以下信息不做真实性、可靠性保证。
