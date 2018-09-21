@@ -8,6 +8,14 @@
 
 所以，特开此仓库，整理记录我收集到的一些IT行业部分公司的黑历史，以帮助每年几十w的IT相关专业的应届毕业生避免踩坑。
 
+### 在线查IT黑名单公司
+
+IT黑名单: [IT黑名单](http://www.blackdir.com/jump/index)
+
+项目源码: [Black](https://github.com/ykz200/Black)
+
+感谢: [ykz200](https://github.com/ykz200)
+
 ### 2018.09.19
 
 来源于网络，更新了成都的部分黑名单、培训公司。感谢众多网络资源。
