@@ -25,3 +25,8 @@ IT黑名单: [IT黑名单](http://www.blackdir.com/jump/index)
 ### 2018.09.21
 
 今天github推送的一个 [github用户: hengxinjing](https://github.com/shengxinjing)整理的[程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist#%E7%A8%8B%E5%BA%8F%E5%91%98%E6%89%BE%E5%B7%A5%E4%BD%9C%E9%BB%91%E5%90%8D%E5%8D%95)
+
+### 2018.09.27
+
+来源于github, 新增杭州的部分比较坑的互联网公司
+链接: https://github.com/lxl0928/it_blacklist_company/blob/master/hangzhou/README.md
