@@ -30,3 +30,8 @@ IT黑名单: [IT黑名单](http://www.blackdir.com/jump/index)
 
 来源于github, 新增杭州的部分比较坑的互联网公司
 链接: https://github.com/lxl0928/it_blacklist_company/blob/master/hangzhou/README.md
+
+### 2018.10.12
+
+更新了北京的部分互联网公司（来源于知乎）
+链接: https://github.com/lxl0928/it_blacklist_company/blob/master/beijing/README.md
