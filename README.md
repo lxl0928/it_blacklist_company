@@ -75,3 +75,7 @@ IT黑名单: [IT黑名单](http://www.blackdir.com/jump/index)
 
 [不尊重人——深圳巧乐科技【IT黑名单】](http://www.itblacklist.cn/detail/20180518/121803.html)
 
+
+## 2019.03.23
+新添合肥，合肥暂无具体的信息，只能通过搜索引擎零散的检索到少部分公司。
+
