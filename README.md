@@ -9,8 +9,8 @@
 所以，特开此仓库，整理记录我收集到的一些IT行业部分公司的黑历史，以帮助每年几十w的IT相关专业的应届毕业生避免踩坑。
 
 ### 建议
-1. 投递简历后，通过【天眼查】查询公司的工商企业登记信息，有无周边风险，周边风险是否和员工相关。
-2. 通过【中国法院裁判文书网】查询公司有无法院庭审信息，庭审裁判文件是否和员工相关。
+1. 投递简历后，通过[【天眼查】](https://www.tianyancha.com/)查询公司的工商企业登记信息，有无周边风险，周边风险是否和员工相关。
+2. 通过[【中国法院裁判文书网】](http://wenshu.court.gov.cn/)查询公司有无法院庭审信息，庭审裁判文件是否和员工相关。
 
 
 ### 在线查IT黑名单公司
@@ -23,7 +23,7 @@ IT黑名单: [IT黑名单](http://www.blackdir.com/jump/index)
 
 ### 2018.09.19
 
-来源于网络，更新了成都的部分黑名单、培训公司。感谢众多网络资源。
+来源于网络，更新了【成都】的部分黑名单、培训公司。感谢众多网络资源。
 
 链接: https://github.com/lxl0928/it_blacklist_company/blob/master/chengdu/README.md
 
@@ -41,49 +41,18 @@ IT黑名单: [IT黑名单](http://www.blackdir.com/jump/index)
 更新了北京的部分互联网公司（来源于知乎）
 链接: https://github.com/lxl0928/it_blacklist_company/blob/master/beijing/README.md
 
-### 2018.11.03
-[拖欠工资——深圳国泰安教育技术股份有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180305/121758.html)
+### 2018.11.03 (来源: CSDN)
+增新了来源CSDN的部分黑名单信息。
+链接: https://github.com/lxl0928/it_blacklist_company/blob/master/others/README.md
 
-[拖欠工资——天绘北斗（深圳）【IT黑名单】](http://www.itblacklist.cn/detail/20180328/121767.html)
+### 2019.03.23
+新增【合肥】，合肥暂无具体的信息，只能通过搜索引擎零散的检索到少部分公司。
+链接: https://github.com/lxl0928/it_blacklist_company/blob/master/hefei/README.md
 
-[拖欠工资/无视劳动法——深圳千里狐科技有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180329/121768.html)
+### 2019.03.26
+更新了一部分【南京】的科技公司。
+链接: https://github.com/lxl0928/it_blacklist_company/blob/master/nanjing/README.md
 
-[拖欠工资——云端互联网(深圳)有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180329/121769.html<Paste>)
-
-[拖欠工资——四川变体科技有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180402/121772.html)
-
-[拖欠工资——中京通达(北京)网络科技有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180409/121778.html)
-
-[拖欠工资，窥探员工隐私——南京览山晓网络科技有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180409/121779.html)
-
-[拖欠工资——西安银创多媒体有限责任公司【IT黑名单】](http://www.itblacklist.cn/detail/20180410/121781.html)
-
-[拖欠工资——广州水禾田软件科技有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180412/121784.html<Paste>)
-
-[拖欠工资——长沙市锐园网络科技有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180419/121787.html)
-
-[拖欠工资——合肥佳网信息科技有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180420/121788.html)
-
-[骗员工钱，拖欠工资社保，变相裁员——成都雅堂集团【IT黑名单】](http://www.itblacklist.cn/detail/20180426/121790.html)
-
-[拖欠工资——北美智慧物联（深圳）有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180430/121791.html)
-
-[拖欠工资——深圳市对酒当歌科技有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180503/121793.html<Paste>)
-
-[拖欠工资——佛山石现科技有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180503/121794.html)
-
-[拖欠工资/拒不支付——软融实业（上海）有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180504/121798.html)
-
-[拖欠工资——山西中北斗科技有限公司【IT黑名单】](http://www.itblacklist.cn/detail/20180504/121800.html)
-
-[强制加班，不加班就开除——深圳菲森科技有限公司 【IT黑名单】](http://www.itblacklist.cn/detail/20180516/121802.html)
-
-[不尊重人——深圳巧乐科技【IT黑名单】](http://www.itblacklist.cn/detail/20180518/121803.html)
-
-
-## 2019.03.23
-新添合肥，合肥暂无具体的信息，只能通过搜索引擎零散的检索到少部分公司。
-
-## 2019.03.26
-更新了一部分南京的科技公司。```nanjing/`
-
+### 2019.03.28
+新增【武汉】
+链接: https://github.com/lxl0928/it_blacklist_company/blob/master/wuhan/README.md
