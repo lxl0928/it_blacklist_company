@@ -46,7 +46,7 @@ IT黑名单: [IT黑名单](http://www.blackdir.com/jump/index)
 链接: https://github.com/lxl0928/it_blacklist_company/blob/master/others/README.md
 
 ### 2019.03.23
-新增【合肥】，合肥暂无具体的信息，只能通过搜索引擎零散的检索到少部分公司。
+新增【合肥】, 2019.04.07再次更新合肥
 链接: https://github.com/lxl0928/it_blacklist_company/blob/master/hefei/README.md
 
 ### 2019.03.26
