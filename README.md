@@ -60,3 +60,7 @@ IT黑名单: [IT黑名单](http://www.blackdir.com/jump/index)
 ### 2019.04.07
 新增【广州】
 链接: https://github.com/lxl0928/it_blacklist_company/blob/master/guangzhou/README.md
+
+### 2019.05.05
+新增【上海】
+链接: https://github.com/lxl0928/it_blacklist_company/blob/master/shanghai/README.md 
