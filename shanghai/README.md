@@ -1,3 +1,3 @@
 ## 上海   
 
-见[campany.json](https://pastebin.ubuntu.com/p/6Q7qg2q4zJ/).
+[shanghai_campany.json](https://github.com/lxl0928/it_blacklist_company/blob/master/shanghai/company.json).
