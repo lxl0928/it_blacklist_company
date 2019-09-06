@@ -66,3 +66,10 @@ IT黑名单2: [IT黑名单2](http://www.itblacklist.cn/)
 ### 2019.05.05
 新增【上海】
 链接: https://github.com/lxl0928/it_blacklist_company/blob/master/shanghai/README.md 
+
+### 2019.09.06
+新增【济南】
+由: [CharlesZHENG](https://github.com/CharlesZHENG) 贡献
+
+链接: https://github.com/lxl0928/it_blacklist_company/blob/master/jinan/README.md 
+
