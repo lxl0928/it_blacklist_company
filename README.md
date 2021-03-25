@@ -71,5 +71,9 @@ IT黑名单2: [IT黑名单2](http://www.itblacklist.cn/)
 新增【济南】
 由: [CharlesZHENG](https://github.com/CharlesZHENG) 贡献
 
+### 2021.03.05
+新增【西安】
+链接: https://github.com/lxl0928/it_blacklist_company/blob/master/xi'an/README.md 
+
 链接: https://github.com/lxl0928/it_blacklist_company/blob/master/jinan/README.md 
 
